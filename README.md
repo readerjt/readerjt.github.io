@@ -1,6 +1,3 @@
-# readerjt.github.io
-Digital Game Studies Minor Application Website 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Readerjt Application</title>
