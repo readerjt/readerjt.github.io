@@ -1,6 +1,5 @@
 <html>
 <head>
-<title>Readerjt Application</title>
 <link href="style.css" type="text/css" rel="stylesheet">
 </head>
 
